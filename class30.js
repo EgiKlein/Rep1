@@ -6,3 +6,5 @@ $( () => {
         $(ui.oldPanel).css("background-color","blue");
     } );
   } );
+
+  console.log("test");
